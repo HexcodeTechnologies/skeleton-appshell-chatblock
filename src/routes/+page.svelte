@@ -6,5 +6,5 @@
 			</div>
 		{/each}
 	</div>
-<footer class="bg-green-500 p-4">(footer)</footer>
+	<footer class="bg-green-500 p-4">(footer)</footer>
 </main>
