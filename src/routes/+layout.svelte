@@ -12,7 +12,7 @@
 
 <AppShell
 	slotSidebarLeft="bg-surface-500/5"
-	slotPageContent="bg-red-500 h-full   grid grid-rows-[1fr_auto]"
+	slotPageContent="bg-red-500 h-full"
 >
 	<svelte:fragment slot="header">Header</svelte:fragment>
 	<svelte:fragment slot="sidebarLeft">
